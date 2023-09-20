@@ -1,0 +1,39 @@
+.todo {
+  list-style-type: none;
+  display: flex;
+  gap: 5px;
+}
+
+.completedTodo {
+  text-decoration: line-through;
+}
+.todo span {
+  margin: 0 auto;
+  align-self: center;
+  cursor: pointer;
+}
+.editTodo {
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.removeTodo {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.editingInput {
+  margin-right: auto;
+  padding: 5px;
+  align-self: stretch;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

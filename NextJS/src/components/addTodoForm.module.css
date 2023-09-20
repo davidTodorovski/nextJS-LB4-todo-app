@@ -1,0 +1,31 @@
+.form {
+  display: flex;
+}
+
+.form label {
+  display: flex;
+  align-items: center;
+}
+
+.form input {
+  margin-left: 20px;
+  padding: 5px;
+  align-self: stretch;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form input:focus {
+  outline: 0;
+}
+.form button {
+  margin-left: 5px;
+
+  background-color: #ffffff;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
