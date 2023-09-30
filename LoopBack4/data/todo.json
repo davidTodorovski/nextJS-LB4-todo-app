@@ -1,11 +1,11 @@
 {
   "ids": {
-    "Todo": 1695077256299
+    "Todo": 1695724883411
   },
   "models": {
     "Todo": {
-      "3": "{\"title\":\"gym\",\"isCompleted\":true,\"id\":3}",
-      "1695076693402": "{\"id\":1695076693402,\"title\":\"test\",\"isCompleted\":false}"
+      "3": "{\"title\":\"gym\",\"isCompleted\":false,\"id\":3}",
+      "1695724883410": "{\"id\":1695724883410,\"title\":\"test2444\",\"isCompleted\":false}"
     }
   }
 }
